@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\User\eclipse-workspace\maven3\src\main\java\maven3\Vacation.java">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;// Copyright (C) 2023&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Users\User\eclipse-workspace\maven3\src\main\java\maven3\VacationEstimator.java">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;// Copyright (C) 2023&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="55" column="13" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="69" column="13" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="87" column="13" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="95" column="13" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+</checkstyle>

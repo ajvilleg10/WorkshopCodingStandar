@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.21.0" timestamp="2023-11-04T13:35:30.221">
+<file name="C:\Users\User\eclipse-workspace\maven3\src\main\java\maven3\Vacation.java">
+<violation beginline="11" endline="11" begincolumn="24" endcolumn="37" rule="RedundantFieldInitializer" ruleset="Performance" package="maven3" class="Vacation" variable="total_cost" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_performance.html#redundantfieldinitializer" priority="3">
+Avoid using redundant field initializer for 'total_cost'
+</violation>
+<violation beginline="87" endline="87" begincolumn="20" endcolumn="60" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="maven3" class="Vacation" method="verifyDestiny" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="90" endline="90" begincolumn="25" endcolumn="73" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="maven3" class="Vacation" method="verifyDestiny" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+</file>
+<file name="C:\Users\User\eclipse-workspace\maven3\src\main\java\maven3\VacationEstimator.java">
+<violation beginline="9" endline="53" begincolumn="23" endcolumn="13" rule="CommentRequired" ruleset="Documentation" package="maven3" class="VacationEstimator" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Public method and constructor comments are required
+</violation>
+</file>
+</pmd>

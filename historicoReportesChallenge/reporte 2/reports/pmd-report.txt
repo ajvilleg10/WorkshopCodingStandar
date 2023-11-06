@@ -1,0 +1,17 @@
+src/main/java/maven3/Vacation.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/maven3/Vacation.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/maven3/Vacation.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/maven3/Vacation.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/maven3/Vacation.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/maven3/Vacation.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/maven3/Vacation.java:11:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'total_cost'
+src/main/java/maven3/Vacation.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/maven3/Vacation.java:87:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/maven3/Vacation.java:87:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/maven3/Vacation.java:90:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/maven3/Vacation.java:90:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/maven3/Vacation.java:104:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'discount' is never used (overwritten on lines 107 and 111)
+src/main/java/maven3/Vacation.java:112:	UnusedAssignment:	UnusedAssignment: The value assigned to field 'total_cost' is never used (overwritten on lines 115, 118 and 121)
+src/main/java/maven3/Vacation.java:115:	UnusedAssignment:	UnusedAssignment: The value assigned to field 'total_cost' is never used (overwritten on lines 118 and 121)
+src/main/java/maven3/VacationEstimator.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/maven3/VacationEstimator.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
